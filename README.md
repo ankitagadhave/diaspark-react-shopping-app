@@ -1,3 +1,13 @@
+# E-Commerce shopping application
+- Login Signup
+- View Products
+- View Product Details
+- Add Product to Cart
+- View Cart
+- Checkout
+
+This is react based webapp created
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
